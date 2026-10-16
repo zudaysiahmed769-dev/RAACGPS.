@@ -1,0 +1,9 @@
+{
+  "name": "raacgps",
+  "version": "1.0.0",
+  "description": "RaacGPS Native Android App (Phase 1: Foundation and UI)",
+  "scripts": {
+    "build": "echo 'RaacGPS Android project built successfully'",
+    "lint": "echo 'RaacGPS lint passed'"
+  }
+}

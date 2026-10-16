@@ -1,0 +1,6 @@
+{
+  "name": "RaacGPS",
+  "description": "Codsiga RaacGPS ee raadraaca goobta, khariidadda, iyo ilaalinta qoyska ee casriga ah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
